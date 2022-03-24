@@ -6,7 +6,6 @@
 
         public Employee()
         {
-
         }
 
         public Employee(string name, int salary, int joiningDate)
@@ -15,7 +14,6 @@
             this.salary = salary;
             this.joiningDate = joiningDate;
         }
-
         public void GetEmployeeData()
         {
             {
